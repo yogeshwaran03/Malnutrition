@@ -1,7 +1,3 @@
-Here's a detailed README file for your GitHub project based on the provided information:
-
----
-
 # Malnutrition: A Disease That No One Cares About
 
 ## Introduction
